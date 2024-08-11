@@ -20,7 +20,7 @@ bool EventTriggered(double interval)
 
 int main()
 {
-    InitWindow(500, 620, "My first Tetris! - Fabrizio");
+    InitWindow(500, 620, "C++ Tetris! - By Fabrizio");
     SetTargetFPS(60);
 
     Font font = LoadFontEx("Font/Minecraftia-Regular.ttf", 64, 0, 0);
