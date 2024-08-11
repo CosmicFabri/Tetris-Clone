@@ -17,3 +17,10 @@ Fortunately, there is no pre-requisite in order to run this game! In short, you'
 <p align="center">
   <img src="Images/DemoImage1.jpeg"/>
 </p>
+
+## Warning
+It might appear a message that says "Windows protected your computer". In that case, just select "More info" and then "Run anyway" :).
+
+<p align="center">
+  <img src="Images/DemoImage2.png"/>
+</p>
